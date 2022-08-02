@@ -1,6 +1,8 @@
 # Kasvimaatti
 
 Kasvimaatti on kotiprojekti jonka tarkoituksena on luoda automaatio kasvihuoneeseen.
+https://koodinkutoja.com/raspi-muuttaa-kasvihuoneeseen/
+https://koodinkutoja.com/ilmankosteusanturin-ja-lcd-nayton-liittaminen-rpihin/
 
 Kasvimaatin avulla voidaan tarkkailla lämpötilaa, kosteutta ja ohjata kastelua erilaisten antureitden ja Raspberry Pi -tietokoneen avulla.
 Idea lähti vuonna 2016, kun pihaan ilmestyi kasvihuone. Kasvimaatti vol 1.0 sai alkusysäyksen. 
